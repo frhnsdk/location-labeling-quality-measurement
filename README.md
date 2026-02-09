@@ -253,7 +253,6 @@ We welcome contributions to improve location data quality assessment!
 
 ### Development Guidelines
 
-- Follow PEP 8 style guidelines
 - Add tests for new functionality
 - Update documentation for API changes
 - Ensure compatibility with Python 3.8+
